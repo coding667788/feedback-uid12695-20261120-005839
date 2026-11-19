@@ -1,0 +1,11 @@
+{
+  "request_id": "concurrent-1",
+  "data_version": "dv-conc",
+  "atom_values": {"a": 1, "b": 1, "c": 9},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "AB", "atoms": ["a", "b"], "weight": 1},
+    {"name": "AC", "atoms": ["a", "c"], "weight": 1}
+  ]
+}

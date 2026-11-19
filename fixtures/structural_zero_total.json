@@ -1,0 +1,14 @@
+{
+  "request_id": "structural-zero",
+  "data_version": "dv-zero",
+  "atom_values": {"a": 2, "b": 5, "z": 0, "q": 0},
+  "structural_zeros": ["z"],
+  "public_total": true,
+  "candidates": [
+    {"name": "AZ", "atoms": ["a", "z"], "weight": 3},
+    {"name": "AQ", "atoms": ["a", "q"], "weight": 3},
+    {"name": "BZ", "atoms": ["b", "z"], "weight": 2},
+    {"name": "Z_singleton", "atoms": ["z"], "weight": 1},
+    {"name": "Q_singleton", "atoms": ["q"], "weight": 1}
+  ]
+}

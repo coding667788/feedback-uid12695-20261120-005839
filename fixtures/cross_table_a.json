@@ -1,0 +1,12 @@
+{
+  "request_id": "cross-table-A",
+  "data_version": "dv-cross",
+  "atom_values": {"a": 1, "b": 2, "c": 3, "d": 4},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "AB", "atoms": ["a", "b"], "weight": 1},
+    {"name": "CD", "atoms": ["c", "d"], "weight": 1},
+    {"name": "ABC", "atoms": ["a", "b", "c"], "weight": 1}
+  ]
+}

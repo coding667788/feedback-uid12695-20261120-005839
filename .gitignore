@@ -1,3 +1,7 @@
 .runtime-tmp/
 __pycache__/
 *.py[cod]
+work/
+demo/
+demo2/
+demo3/

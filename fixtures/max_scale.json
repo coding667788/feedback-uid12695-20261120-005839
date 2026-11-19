@@ -1,0 +1,185 @@
+{
+  "request_id": "max-scale",
+  "data_version": "dv-max",
+  "atom_values": {
+    "a0": 1,
+    "a1": 2,
+    "a2": 1,
+    "a3": 2,
+    "a4": 5,
+    "a5": 7,
+    "a6": 0,
+    "a7": 3,
+    "a8": 4,
+    "a9": 6
+  },
+  "structural_zeros": [
+    "a6"
+  ],
+  "public_total": true,
+  "candidates": [
+    {
+      "name": "C00",
+      "atoms": [
+        "a0",
+        "a4"
+      ],
+      "weight": 4,
+      "required": false
+    },
+    {
+      "name": "C01",
+      "atoms": [
+        "a1",
+        "a2",
+        "a8"
+      ],
+      "weight": 10,
+      "required": false
+    },
+    {
+      "name": "C02",
+      "atoms": [
+        "a0",
+        "a1",
+        "a6",
+        "a7",
+        "a9"
+      ],
+      "weight": 9,
+      "required": false
+    },
+    {
+      "name": "C03",
+      "atoms": [
+        "a3",
+        "a8"
+      ],
+      "weight": 9,
+      "required": false
+    },
+    {
+      "name": "C04",
+      "atoms": [
+        "a0",
+        "a3",
+        "a4",
+        "a6",
+        "a7"
+      ],
+      "weight": 3,
+      "required": false
+    },
+    {
+      "name": "C05",
+      "atoms": [
+        "a1",
+        "a2",
+        "a4",
+        "a5",
+        "a7"
+      ],
+      "weight": 2,
+      "required": false
+    },
+    {
+      "name": "C06",
+      "atoms": [
+        "a1",
+        "a6"
+      ],
+      "weight": 6,
+      "required": false
+    },
+    {
+      "name": "C07",
+      "atoms": [
+        "a0",
+        "a4",
+        "a5",
+        "a9"
+      ],
+      "weight": 8,
+      "required": false
+    },
+    {
+      "name": "C08",
+      "atoms": [
+        "a1",
+        "a6"
+      ],
+      "weight": 9,
+      "required": false
+    },
+    {
+      "name": "C09",
+      "atoms": [
+        "a3",
+        "a5",
+        "a8",
+        "a9"
+      ],
+      "weight": 2,
+      "required": false
+    },
+    {
+      "name": "C10",
+      "atoms": [
+        "a3",
+        "a4"
+      ],
+      "weight": 2,
+      "required": false
+    },
+    {
+      "name": "C11",
+      "atoms": [
+        "a1",
+        "a4",
+        "a6"
+      ],
+      "weight": 8,
+      "required": false
+    },
+    {
+      "name": "C12",
+      "atoms": [
+        "a1",
+        "a2",
+        "a5",
+        "a8"
+      ],
+      "weight": 5,
+      "required": false
+    },
+    {
+      "name": "C13",
+      "atoms": [
+        "a2",
+        "a9"
+      ],
+      "weight": 9,
+      "required": false
+    },
+    {
+      "name": "C14",
+      "atoms": [
+        "a2",
+        "a6",
+        "a7"
+      ],
+      "weight": 5,
+      "required": false
+    },
+    {
+      "name": "C15",
+      "atoms": [
+        "a0",
+        "a3",
+        "a5"
+      ],
+      "weight": 1,
+      "required": true
+    }
+  ]
+}

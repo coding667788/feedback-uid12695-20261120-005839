@@ -1,0 +1,11 @@
+{
+  "request_id": "required-blocked",
+  "data_version": "dv-req",
+  "atom_values": {"a": 1, "b": 6},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "a_singleton", "atoms": ["a"], "weight": 1, "required": true},
+    {"name": "AB", "atoms": ["a", "b"], "weight": 5}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "request_id": "brute-tiny",
+  "data_version": "dv-tiny",
+  "atom_values": {"p": 1, "q": 3},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "C1", "atoms": ["p", "q"], "weight": 5},
+    {"name": "C2", "atoms": ["q"], "weight": 2},
+    {"name": "C3", "atoms": ["p", "q"], "weight": 4},
+    {"name": "p_single", "atoms": ["p"], "weight": 9}
+  ]
+}

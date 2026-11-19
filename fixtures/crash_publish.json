@@ -1,0 +1,10 @@
+{
+  "request_id": "crash-case",
+  "data_version": "dv-crash",
+  "atom_values": {"a": 2, "b": 8},
+  "structural_zeros": [],
+  "public_total": true,
+  "candidates": [
+    {"name": "AB", "atoms": ["a", "b"], "weight": 3}
+  ]
+}

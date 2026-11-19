@@ -1,0 +1,12 @@
+{
+  "request_id": "tie-case",
+  "data_version": "dv-tie",
+  "atom_values": {"a": 1, "b": 1, "c": 7},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "zeta_pair", "atoms": ["a", "c"], "weight": 4},
+    {"name": "alpha_pair", "atoms": ["b", "c"], "weight": 4},
+    {"name": "mid_pair", "atoms": ["a", "b"], "weight": 4}
+  ]
+}

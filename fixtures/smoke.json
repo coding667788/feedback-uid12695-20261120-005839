@@ -1,0 +1,13 @@
+{
+  "request_id": "smoke-1",
+  "data_version": "dv-smoke",
+  "atom_values": {"a": 1, "b": 2, "c": 5, "d": 0},
+  "structural_zeros": ["d"],
+  "public_total": true,
+  "candidates": [
+    {"name": "AB", "atoms": ["a", "b"], "weight": 3},
+    {"name": "BC", "atoms": ["b", "c"], "weight": 2},
+    {"name": "A_only", "atoms": ["a"], "weight": 10},
+    {"name": "CD", "atoms": ["c", "d"], "weight": 1}
+  ]
+}

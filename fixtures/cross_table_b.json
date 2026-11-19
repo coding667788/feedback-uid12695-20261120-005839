@@ -1,0 +1,11 @@
+{
+  "request_id": "cross-table-B",
+  "data_version": "dv-cross",
+  "atom_values": {"a": 1, "b": 2, "c": 3, "d": 4},
+  "structural_zeros": [],
+  "public_total": false,
+  "candidates": [
+    {"name": "BC", "atoms": ["b", "c"], "weight": 1},
+    {"name": "BCD", "atoms": ["b", "c", "d"], "weight": 1}
+  ]
+}
